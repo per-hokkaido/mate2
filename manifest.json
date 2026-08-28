@@ -1,0 +1,17 @@
+{
+  "name": "無機化学 一問一答",
+  "short_name": "無機化学Quiz",
+  "description": "高校化学 無機物質(周期表・非金属元素・典型金属元素・遷移元素)の一問一答学習アプリ",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1c2027",
+  "theme_color": "#1c2027",
+  "lang": "ja",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
